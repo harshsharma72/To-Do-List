@@ -96,4 +96,5 @@ ul li span{
 }
 ul li span:hover{
     background-color: #edeef0;
+    color: black;
 }
